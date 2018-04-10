@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FactoryPatternExample": {
+      "commandName": "Project",
+      "commandLineArgs": "true true"
+    }
+  }
+}

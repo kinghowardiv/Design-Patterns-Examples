@@ -1,0 +1,9 @@
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp1.1\FactoryPatternExample.deps.json
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp1.1\FactoryPatternExample.runtimeconfig.json
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp1.1\FactoryPatternExample.runtimeconfig.dev.json
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp1.1\FactoryPatternExample.csprojResolveAssemblyReference.cache
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp1.1\FactoryPatternExample.AssemblyInfo.cs
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp1.1\FactoryPatternExample.dll
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\bin\Debug\netcoreapp1.1\FactoryPatternExample.pdb
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp1.1\FactoryPatternExample.dll
+c:\users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExample\obj\Debug\netcoreapp1.1\FactoryPatternExample.pdb
