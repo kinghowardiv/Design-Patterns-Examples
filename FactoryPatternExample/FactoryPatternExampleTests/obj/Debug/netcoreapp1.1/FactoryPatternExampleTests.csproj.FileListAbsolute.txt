@@ -1,0 +1,14 @@
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExampleTests.deps.json
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExampleTests.runtimeconfig.json
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExampleTests.runtimeconfig.dev.json
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExampleTests.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExampleTests.pdb
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExample.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\bin\Debug\netcoreapp1.1\FactoryPatternExample.pdb
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\obj\Debug\netcoreapp1.1\FactoryPatternExampleTests.csprojResolveAssemblyReference.cache
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\obj\Debug\netcoreapp1.1\FactoryPatternExampleTests.AssemblyInfo.cs
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\obj\Debug\netcoreapp1.1\FactoryPatternExampleTests.dll
+C:\Users\hapet\documents\visual studio 2017\Projects\FactoryPatternExample\FactoryPatternExampleTests\obj\Debug\netcoreapp1.1\FactoryPatternExampleTests.pdb
