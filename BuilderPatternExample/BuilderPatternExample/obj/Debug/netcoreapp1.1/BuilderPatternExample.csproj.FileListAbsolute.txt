@@ -1,0 +1,9 @@
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.deps.json
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.runtimeconfig.json
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.runtimeconfig.dev.json
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.dll
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.pdb
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.csprojResolveAssemblyReference.cache
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.AssemblyInfo.cs
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.dll
+c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.pdb
