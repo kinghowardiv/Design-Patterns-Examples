@@ -1,0 +1,14 @@
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExampleTests.deps.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExampleTests.runtimeconfig.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExampleTests.runtimeconfig.dev.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\obj\Debug\netcoreapp1.1\BuilderPatternExampleTests.csprojResolveAssemblyReference.cache
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\obj\Debug\netcoreapp1.1\BuilderPatternExampleTests.AssemblyInfo.cs
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExampleTests.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExampleTests.pdb
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExample.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\bin\Debug\netcoreapp1.1\BuilderPatternExample.pdb
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\obj\Debug\netcoreapp1.1\BuilderPatternExampleTests.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExampleTests\obj\Debug\netcoreapp1.1\BuilderPatternExampleTests.pdb

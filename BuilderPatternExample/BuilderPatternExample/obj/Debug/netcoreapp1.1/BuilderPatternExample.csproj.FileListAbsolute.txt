@@ -7,3 +7,12 @@ c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\Build
 c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.AssemblyInfo.cs
 c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.dll
 c:\users\hapet\documents\visual studio 2017\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.pdb
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.deps.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.runtimeconfig.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.runtimeconfig.dev.json
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\bin\Debug\netcoreapp1.1\BuilderPatternExample.pdb
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.AssemblyInfo.cs
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.dll
+C:\Users\hapet\Documents\GitHub\Design-Patterns-Examples\BuilderPatternExample\BuilderPatternExample\obj\Debug\netcoreapp1.1\BuilderPatternExample.pdb

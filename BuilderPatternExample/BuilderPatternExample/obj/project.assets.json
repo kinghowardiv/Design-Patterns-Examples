@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\hapet\\documents\\visual studio 2017\\Projects\\BuilderPatternExample\\BuilderPatternExample\\BuilderPatternExample.csproj",
+      "projectUniqueName": "C:\\Users\\hapet\\Documents\\GitHub\\Design-Patterns-Examples\\BuilderPatternExample\\BuilderPatternExample\\BuilderPatternExample.csproj",
       "projectName": "BuilderPatternExample",
-      "projectPath": "c:\\users\\hapet\\documents\\visual studio 2017\\Projects\\BuilderPatternExample\\BuilderPatternExample\\BuilderPatternExample.csproj",
-      "outputPath": "c:\\users\\hapet\\documents\\visual studio 2017\\Projects\\BuilderPatternExample\\BuilderPatternExample\\obj\\",
+      "projectPath": "C:\\Users\\hapet\\Documents\\GitHub\\Design-Patterns-Examples\\BuilderPatternExample\\BuilderPatternExample\\BuilderPatternExample.csproj",
+      "outputPath": "C:\\Users\\hapet\\Documents\\GitHub\\Design-Patterns-Examples\\BuilderPatternExample\\BuilderPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
